@@ -1,0 +1,2 @@
+This notebook is my solution for the first task of TSF GRIP intership which consist of creating a linear regression model to predict the Percentage of an student based on no. of study hours.
+note : this task is a biginner level.
